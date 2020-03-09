@@ -6,7 +6,8 @@ The community version of CADViewer JS, the web-based CAD viewer that integrates 
 # CADViewer Capabilities
 
     User Interface available in several languages.
-    Print and Print to a chosen scale.
+    Direct Print
+	Print to a chosen scale.
     Toolbars can be customized.
     Layer handling corresponding to CAD file structure.
     Interactive Text search.
