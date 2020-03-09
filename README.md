@@ -59,3 +59,21 @@ Source code in download yyy. Support up till version x.y
 
 
 Source code in download xxx. Support up till version x.y
+
+
+
+## Enterprise Products
+
+The community version can be extended with Enterprise Products:
+
+### CADViewer JS Enterprise Version
+
+Add-on API developed by  to enable Redlining Markup, Image Insert, Compare Drawings and much more.  
+
+### Enterprise Converter Versions
+
+Converters with full AutoCAD DWG/DXF/DWF and MicroStation DGN Support developed by  
+
+
+
+
