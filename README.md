@@ -3,7 +3,7 @@ The community version of CADViewer JS, the web-based CAD viewer that integrates 
 
 
 
-# CADViewer JS Community Version Capabilities
+# Capabilities - CADViewer JS Community Version 
 
     User Interface available in several languages.
     Direct Print and Print to a chosen scale.
@@ -64,7 +64,7 @@ Source code in download xxx. Support up till version x.y
 
 ## Enterprise Products
 
-The community version can be extended with Enterprise Products:
+The community version can be extended with the following Enterprise Products:
 
 ### CADViewer JS Enterprise Version
 
