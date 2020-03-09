@@ -1,9 +1,9 @@
-# CADViewer
+# CADViewer JS
 The community version of CADViewer JS, the web-based CAD viewer that integrates with all browsers
 
 
 
-# CADViewer Capabilities
+# CADViewer JS Community Version Capabilities
 
     User Interface available in several languages.
     Direct Print and Print to a chosen scale.
