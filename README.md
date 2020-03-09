@@ -6,7 +6,7 @@ The community version of CADViewer JS, the web-based CAD viewer that integrates 
 # Capabilities - CADViewer JS Community Version 
 
     Direct Print and Print to a chosen scale.
-    Toolbars can be customized, layout and images.
+    Toolbars can be customized, both layout and images.
     Clean Canvas mode for direct API control of canvas.
     User Interface available in several languages.
     Layer handling corresponding to CAD file structure.
