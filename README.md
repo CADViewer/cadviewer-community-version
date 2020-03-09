@@ -68,11 +68,11 @@ The community version can be extended with Enterprise Products:
 
 ### CADViewer JS Enterprise Version
 
-Add-on API developed by  to enable Redlining Markup, Image Insert, Compare Drawings and much more.  
+Add-on API developed by [![CADViewer](https://cadviewer.com/images/cv-logo.gif)](https://www.cadviewer.com)  to enable Redlining Markup, Image Insert, Compare Drawings, Dynamic Highlight and much much more.  
 
 ### Enterprise Converter Versions
 
-Converters with full AutoCAD DWG/DXF/DWF and MicroStation DGN Support developed by  
+Converters with full AutoCAD DWG/DXF/DWF and MicroStation DGN Support developed by [![Tailor Made Software](https://tailormade.com/images/tmslogo.gif)](https://www.tailormade.com)  
 
 
 
