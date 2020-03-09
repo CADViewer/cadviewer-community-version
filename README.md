@@ -42,7 +42,7 @@ more...
 
 
 
-## Installing Converters
+## Installing Converters for added file support
 
 All converters are compiled and installed on the server and accessed by CADViewer JS through an adapter
 
