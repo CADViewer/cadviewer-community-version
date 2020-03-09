@@ -5,7 +5,18 @@ The community version of CADViewer JS, the web-based CAD viewer that integrates 
 
 CADViewer JS natively supports vector graphics format SVG and bitmap formats JPG, PNG, GIF
 
+### Step 1
+
 more...
+
+### Step 2
+
+more...
+
+### Step 3
+
+more...
+
 
 
 ## Installing Converters
