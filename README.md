@@ -1,9 +1,9 @@
 # CADViewer JS
-The community version of CADViewer JS, the web-based CAD viewer that integrates with all browsers
+The community edition of CADViewer JS, the web-based CAD viewer that integrates with all browsers
 
 
 
-# Capabilities - CADViewer JS Community Version 
+# Capabilities - CADViewer JS Community Edition
 
     Direct Print and Print to a chosen scale.
     Toolbars can be customized, both layout and images.
@@ -24,7 +24,7 @@ The community version of CADViewer JS, the web-based CAD viewer that integrates 
 
 
 
-## Installing CADViewer JS Community Version
+## Installing CADViewer JS Community Edition
 
 CADViewer JS natively supports vector graphics format SVG and bitmap formats JPG, PNG, GIF
 
@@ -67,7 +67,7 @@ Source code in download xxx. Support up till version x.y
 
 The community version can be extended with the following Enterprise Products:
 
-### CADViewer JS Enterprise Version
+### CADViewer JS Enterprise Edition
 
 Add-on API developed by [cadviewer.com](https://www.cadviewer.com) to enable Redlining Markup, Image Insert, Compare Drawings, Dynamic Highlight and much much more into CADViewer JS.  
 
