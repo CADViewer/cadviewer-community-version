@@ -1,5 +1,5 @@
-# CADViewer JS
-The community edition of CADViewer JS, the web-based CAD viewer that integrates with all browsers
+# CADViewer Community Version
+The community edition of CADViewer, the web-based CAD viewer that integrates with all browsers
 
 
 
