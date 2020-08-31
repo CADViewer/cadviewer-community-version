@@ -3,7 +3,7 @@ The community edition of CADViewer, the web-based CAD viewer that integrates wit
 
 
 
-# Capabilities - CADViewer JS Community Edition
+# Capabilities - CADViewer Community Edition
 
     Direct Print and Print to a chosen scale.
     Toolbars can be customized, both layout and images.
@@ -24,7 +24,7 @@ The community edition of CADViewer, the web-based CAD viewer that integrates wit
 
 
 
-## Installing CADViewer JS Community Edition
+## Installing CADViewer Community Edition
 
 CADViewer JS natively supports vector graphics format SVG and bitmap formats JPG, PNG, GIF
 
